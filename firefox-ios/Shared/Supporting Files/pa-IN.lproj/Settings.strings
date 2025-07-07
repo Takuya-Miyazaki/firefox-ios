@@ -218,7 +218,7 @@
 "Settings.Studies.Link.v136" = "ਹੋਰ ਜਾਣੋ";
 
 /* A short description that explains that Mozilla is running studies */
-"Settings.Studies.Message.v136" = "ਫ਼ੀਚਰ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੁੰ ਹਰ ਕਿਸੇ ਕੋਲ ਪਹੁੰਚਣ ਤੋਂ ਪਹਿਲਾਂ ਅਜ਼ਮਾਓ।";
+"Settings.Studies.Message.v136" = "ਫ਼ੀਚਰ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਹਰ ਕਿਸੇ ਕੋਲ ਪਹੁੰਚਣ ਤੋਂ ਪਹਿਲਾਂ ਅਜ਼ਮਾਓ।";
 
 /* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
 "Settings.Studies.Title.v136" = "ਅਧਿਐਨ ਇੰਸਟਾਲ ਕਰੋ ਤੇ ਚਲਾਓ";
