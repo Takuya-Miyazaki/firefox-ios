@@ -26,7 +26,7 @@
 "About.rowRights" = "Tu derectos";
 
 /* Label for row in About screen */
-"About.rowTerms" = "Terminos de uso";
+"About.rowTerms" = "Conditiones de uso";
 
 /* Label on About screen */
 "About.safariBullet1" = "Bloca traciatores pro melior confidentialitate";
@@ -240,6 +240,9 @@
 
 /* Label for the agreement button in the Terms of Use screen. */
 "Onboarding.TermsOfUse.ButtonText" = "Acceptar e continuar";
+
+/* Label for the agreement button in the Terms of Use screen. */
+"Onboarding.TermsOfUse.ButtonTextV2" = "Continuar";
 
 /* Button label to dismiss the Privacy Policy and Terms of Use screen. */
 "Onboarding.TermsOfUse.Done.ButtonText" = "Facite";
