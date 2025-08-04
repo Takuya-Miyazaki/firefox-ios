@@ -13,6 +13,9 @@
 /* On the app icon customization screen where you can select an alternate icon for the app, this is the name of the Firefox for iOS app icon with a background gradient of blue fading to purple. */
 "Settings.AppIconSelection.AppIconNames.BlueHour.Title.v137" = "Blå time";
 
+/* On the app icon customization screen where you can select an alternate icon for the app, this is the name of a cute cartoony fox artwork app icon. */
+"Settings.AppIconSelection.AppIconNames.Cute.Title.v139" = "Søt";
+
 /* On the app icon customization screen where you can select an alternate icon for the app, this is the name of the Firefox icon with a cyan background. */
 "Settings.AppIconSelection.AppIconNames.Cyan.Title.v137" = "Cyan";
 
@@ -101,7 +104,7 @@
 "Settings.AppIconSelection.Errors.SelectErrorConfirmation.v136" = "OK";
 
 /* On the app icon customization screen where you can select an alternate icon for the app, this is the message displayed when the app fails to set the user's selected app icon. */
-"Settings.AppIconSelection.Errors.SelectErrorMessage.v136" = "Beklagar, det oppsto ein feil ved endring av app-ikonet ditt.";
+"Settings.AppIconSelection.Errors.SelectErrorMessage.v136" = "Beklagar, det oppstod ein feil ved endring av app-ikonet ditt.";
 
 /* On the app icon customization screen where you can select an alternate icon for the app, this is the title displayed at the top of the screen. */
 "Settings.AppIconSelection.ScreenTitle.v136" = "App-ikon";
